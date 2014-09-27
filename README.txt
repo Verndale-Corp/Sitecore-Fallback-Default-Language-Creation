@@ -4,6 +4,7 @@ Purpose
 Make it easier to ensure all language versions are added for items, both on creation, or via an explicit ribbon command.
 
 Compatibility
+The codebase is compatible with Sitecore 6.6.x releases and at least through Sitecore 7.2.x.
 This assumes you are using the latest version of the Partial Language Fallback Module
 http://marketplace.sitecore.net/en/Modules/Language_Fallback.aspx
 
@@ -27,4 +28,4 @@ Testing
 3. See that all languages in the system have been added as well as the one you explicitly added
 4. For an item that already exists that is missing a language version, click it and then click the Add All Language command button in the Versions tab, see that it all language version now exist
 
-Review the blog series about Partial Language Fallback on Sitecore, link TBD
+Review the blog series about Partial Language Fallback on Sitecore, http://www.sitecore.net/en-gb/Learn/Blogs/Technical-Blogs/Elizabeth-Spranzani.aspx
